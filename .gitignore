@@ -1,0 +1,8 @@
+.env 
+__pycache__/ 
+*.pyc 
+temp_* 
+chroma_db/ 
+.streamlit/ 
+*.db 
+*.sqlite3 
