@@ -7,7 +7,7 @@ python-dotenv
 chromadb 
 tiktoken 
 pypdf 
-duckduckgo-search 
+duckduckgo-search==5.3.1
 pillow 
 requests 
 replicate 
