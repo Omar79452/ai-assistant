@@ -8,6 +8,7 @@ chromadb
 tiktoken 
 pypdf 
 duckduckgo-search==5.3.1
+ddgs
 pillow 
 requests 
 replicate 
